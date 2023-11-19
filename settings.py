@@ -93,7 +93,7 @@ TWISTED_REACTOR = "twisted.internet.asyncioreactor.AsyncioSelectorReactor"
 FEED_EXPORT_ENCODING = "utf-8"
 
 
-SCRAPEOPS_API_KEY = '3aa05ce6-c7ae-4197-8911-f39e5825a00a'
+SCRAPEOPS_API_KEY = '*******'
 
 SCRAPEOPS_PROXY_ENABLED = True
 
